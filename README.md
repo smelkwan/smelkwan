@@ -1,7 +1,7 @@
 ### Hi I'm Melanie! 👋
 
-  👩‍🎓 Studied Psychology at the University of Southern California 
-  🌱 Currently learning about data analytics and UXR 
+  - 👩‍🎓 Studied Psychology at the University of Southern California 
+  - 🌱 Currently learning about data analytics and UXR 
 
 <!--
 **smelkwan/smelkwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
